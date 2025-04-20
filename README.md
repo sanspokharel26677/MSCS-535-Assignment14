@@ -118,4 +118,4 @@ Secure Software Development (MSCS-535)
 
 ## 📸 Screenshots
 
-> Please see report `MSCS-535-Assignment14-Report.pdf` for screenshots and analysis.
+> Please see report `MSCS-535-Assignment14.pdf` for screenshots and analysis.
